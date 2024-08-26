@@ -5,7 +5,7 @@ Is Small-C 1.1 public domain ?
 - Small-C was published in the US before January 1988.
 - Small-C source code doesn't have a Copyright statement.
 - I can't find the original May 1980 issue #45 of Dr. Dobb's Journal.
-- The re-print article in Volume 05 is clearly copyrighted.
+- The re-print article in 1982 Volume 05 is clearly copyrighted.
 - February 1976 issue of DDJ states that articles may be reprinted for any non-commercial purpose.
 - All the derivative versions of Small-C that I found are copyrighted.
 
