@@ -6,7 +6,7 @@ Is Small-C 1.1 public domain ?
 - Small-C source code doesn't have a Copyright statement.
 - I can't find the original issue #45 of Dr. Dobb's Journal.
 - The re-print in Volume 05 is clearly copyrighted.
-- All the derivative version of Small-C are copyrighted.
+- All the derivative versions of Small-C that I found are copyrighted.
 
 - So the answer is: I don't know until I can find the Copyright terms of Dr. Dobb's original issue #45.
 
